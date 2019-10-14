@@ -1,0 +1,7 @@
+c:\users\courtney hay\source\repos\ConsoleApptest\ConsoleApptest\bin\Debug\ConsoleApptest.exe.config
+c:\users\courtney hay\source\repos\ConsoleApptest\ConsoleApptest\bin\Debug\ConsoleApptest.exe
+c:\users\courtney hay\source\repos\ConsoleApptest\ConsoleApptest\bin\Debug\ConsoleApptest.pdb
+c:\users\courtney hay\source\repos\ConsoleApptest\ConsoleApptest\obj\Debug\ConsoleApptest.csprojResolveAssemblyReference.cache
+c:\users\courtney hay\source\repos\ConsoleApptest\ConsoleApptest\obj\Debug\ConsoleApptest.csproj.CoreCompileInputs.cache
+c:\users\courtney hay\source\repos\ConsoleApptest\ConsoleApptest\obj\Debug\ConsoleApptest.exe
+c:\users\courtney hay\source\repos\ConsoleApptest\ConsoleApptest\obj\Debug\ConsoleApptest.pdb
