@@ -1,0 +1,11 @@
+c:\users\courtney hay\source\repos\quizTest\quizTest\bin\Debug\netcoreapp2.0\quizTest.deps.json
+c:\users\courtney hay\source\repos\quizTest\quizTest\bin\Debug\netcoreapp2.0\quizTest.runtimeconfig.json
+c:\users\courtney hay\source\repos\quizTest\quizTest\bin\Debug\netcoreapp2.0\quizTest.runtimeconfig.dev.json
+c:\users\courtney hay\source\repos\quizTest\quizTest\bin\Debug\netcoreapp2.0\quizTest.dll
+c:\users\courtney hay\source\repos\quizTest\quizTest\bin\Debug\netcoreapp2.0\quizTest.pdb
+c:\users\courtney hay\source\repos\quizTest\quizTest\obj\Debug\netcoreapp2.0\quizTest.csprojResolveAssemblyReference.cache
+c:\users\courtney hay\source\repos\quizTest\quizTest\obj\Debug\netcoreapp2.0\quizTest.csproj.CoreCompileInputs.cache
+c:\users\courtney hay\source\repos\quizTest\quizTest\obj\Debug\netcoreapp2.0\quizTest.AssemblyInfoInputs.cache
+c:\users\courtney hay\source\repos\quizTest\quizTest\obj\Debug\netcoreapp2.0\quizTest.AssemblyInfo.cs
+c:\users\courtney hay\source\repos\quizTest\quizTest\obj\Debug\netcoreapp2.0\quizTest.dll
+c:\users\courtney hay\source\repos\quizTest\quizTest\obj\Debug\netcoreapp2.0\quizTest.pdb

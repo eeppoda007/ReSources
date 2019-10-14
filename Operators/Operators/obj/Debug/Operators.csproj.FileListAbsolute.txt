@@ -1,0 +1,10 @@
+c:\users\courtney hay\source\repos\Operators\Operators\bin\Debug\Operators.exe.config
+c:\users\courtney hay\source\repos\Operators\Operators\bin\Debug\Operators.exe
+c:\users\courtney hay\source\repos\Operators\Operators\bin\Debug\Operators.pdb
+c:\users\courtney hay\source\repos\Operators\Operators\obj\Debug\Operators.csprojResolveAssemblyReference.cache
+c:\users\courtney hay\source\repos\Operators\Operators\obj\Debug\Operators.Form1.resources
+c:\users\courtney hay\source\repos\Operators\Operators\obj\Debug\Operators.Properties.Resources.resources
+c:\users\courtney hay\source\repos\Operators\Operators\obj\Debug\Operators.csproj.GenerateResource.cache
+c:\users\courtney hay\source\repos\Operators\Operators\obj\Debug\Operators.csproj.CoreCompileInputs.cache
+c:\users\courtney hay\source\repos\Operators\Operators\obj\Debug\Operators.exe
+c:\users\courtney hay\source\repos\Operators\Operators\obj\Debug\Operators.pdb
