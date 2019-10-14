@@ -1,0 +1,7 @@
+C:\Users\Courtney Hay\source\repos\LogicalOperators\LogicalOperators\bin\Debug\LogicalOperators.exe.config
+C:\Users\Courtney Hay\source\repos\LogicalOperators\LogicalOperators\bin\Debug\LogicalOperators.exe
+C:\Users\Courtney Hay\source\repos\LogicalOperators\LogicalOperators\bin\Debug\LogicalOperators.pdb
+C:\Users\Courtney Hay\source\repos\LogicalOperators\LogicalOperators\obj\Debug\LogicalOperators.csprojResolveAssemblyReference.cache
+C:\Users\Courtney Hay\source\repos\LogicalOperators\LogicalOperators\obj\Debug\LogicalOperators.csproj.CoreCompileInputs.cache
+C:\Users\Courtney Hay\source\repos\LogicalOperators\LogicalOperators\obj\Debug\LogicalOperators.exe
+C:\Users\Courtney Hay\source\repos\LogicalOperators\LogicalOperators\obj\Debug\LogicalOperators.pdb

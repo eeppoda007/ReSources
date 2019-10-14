@@ -1,0 +1,2 @@
+C:\Users\Courtney Hay\source\repos\Method_Access\Method_Access\obj\Debug\Method_Access.csprojResolveAssemblyReference.cache
+C:\Users\Courtney Hay\source\repos\Method_Access\Method_Access\obj\Debug\Method_Access.csproj.CoreCompileInputs.cache

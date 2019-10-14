@@ -1,0 +1,7 @@
+C:\Users\Courtney Hay\source\repos\testit\testit\obj\Debug\testit.csprojResolveAssemblyReference.cache
+C:\Users\Courtney Hay\source\repos\testit\testit\obj\Debug\testit.csproj.CoreCompileInputs.cache
+C:\Users\Courtney Hay\source\repos\testit\testit\bin\Debug\testit.exe.config
+C:\Users\Courtney Hay\source\repos\testit\testit\bin\Debug\testit.exe
+C:\Users\Courtney Hay\source\repos\testit\testit\bin\Debug\testit.pdb
+C:\Users\Courtney Hay\source\repos\testit\testit\obj\Debug\testit.exe
+C:\Users\Courtney Hay\source\repos\testit\testit\obj\Debug\testit.pdb
